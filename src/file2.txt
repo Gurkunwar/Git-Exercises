@@ -1,5 +1,8 @@
 hi there
 how are you doing?
 
-I'm not doing good.
+I am doing fine.
+How about you?
+
+I'm not doing good
 Thanks for asking.
